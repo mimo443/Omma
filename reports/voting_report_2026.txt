@@ -1,0 +1,13 @@
+OMMA Voting App - Jaarrapport 2026
+
+Totaal Stemmen: 1.234
+- Honden: 678 (54.9%)
+- Katten: 556 (45.1%)
+
+Meest Actieve Gebruikers:
+1. john_doe - 45 stemmen
+2. jane_smith - 38 stemmen
+3. bob_wilson - 31 stemmen
+
+Status: APPROVED
+Datum: 2026-01-04
